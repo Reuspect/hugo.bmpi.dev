@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://poetic-nougat-9af5f7.netlify.app//"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "hugo-coder"
